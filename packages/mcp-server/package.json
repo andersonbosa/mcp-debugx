@@ -44,7 +44,7 @@
     "@modelcontextprotocol/inspector": "^0.16.5",
     "@modelcontextprotocol/sdk": "^1.17.4",
     "dotenv": "^17.2.1",
-    "express": "^5.1.0",
+    "express": "^5.2.1",
     "uuid": "^11.1.0",
     "ws": "^8.18.3"
   },
